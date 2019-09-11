@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="favColor">Favorite Color</string>
+    <string name="favIceCream">Favorite Ice Cream</string>
+    <string name="favMovie">Favorite Movie</string>
+    <string name="colorCounter">0</string>
+    <string name="iceCreamCounter">0</string>
+    <string name="movieCounter">0</string>
+    <string name="colorResponse">My favorite color is grey.</string>
+    <string name="iceCreamResponse">My favorite flavor of ice cream is strawberry.</string>
+    <string name="movieResponse">My favorite movie is No Country for Old Men.</string>
+    <string name="back">Back</string>
+</resources>
